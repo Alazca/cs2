@@ -1,0 +1,14 @@
+010001tomatoes, diced, 8oz001.25002.50075s
+010012tomatoes, sundried  002.10004.20024s
+010037tomatoes, pureed    001.85002.99132s
+010054bread, whole wheat  002.49004.29000o
+020017pita bread, 12 oz   001.50003.00014s
+020025pita, spinach       001.50003.25000d
+020041dave's killer bread 004.25006.50007s
+030087almonds, blanched   002.35002.99019s
+030125pistachios, natural 006.43009.50022s
+040301flour, unbleached   003.45005.50188s
+040287yeast, rapid rise   001.25002.20045o
+050554iowa corn mix       000.49000.99038d
+050565penny paradise mix  000.89001.29013s
+060606chocolate nonpareils001.35002.70003s
